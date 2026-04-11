@@ -1,42 +1,40 @@
-# 🎓 UniversityWorks
+<div align="center">
+  <h1>🎓 UniversityWorks</h1>
+  <p><b>Portfólio unificado de desafios, trabalhos e laboratórios acadêmicos.</b></p>
+  
+  [![Tecnologias](https://img.shields.io/badge/Tech_Stack-C++_|_Java_|_Go_|_Web-blue?style=for-the-badge)]()
+  [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-success?style=for-the-badge)]()
 
-Bem-vindo ao repositório central dos meus projetos e trabalhos desenvolvidos durante a universidade. Este repositório funciona como um *monorepo* para consolidar diferentes disciplinas e desafios acadêmicos, preservando todo o histórico de contribuições.
+</div>
 
----
+<br>
 
-## 📂 Estrutura de Projetos
-
-Abaixo está o resumo dos projetos unificados neste repositório:
-
-### 🖥️ Computação Gráfica (`ComputerGraphics`)
-Projetos desenvolvidos para a disciplina de Computação Gráfica, incluindo estudos com manipulação visual e rendering.
-- Contém implementações como `BracoMec` e `DesenhoAula06`.
-
-### ☕ Programação Orientada a Objetos (`francielioEvangelistaDosSantosCastroprojetoAPI`)
-**Projeto API - Locadora de Veículos**
-Uma API REST desenvolvida em Spring Boot (Java) que simula o funcionamento de uma locadora de veículos. Permite o gerenciamento completo de clientes, veículos e registros de aluguel.
-
-### 🐹 Estruturas de Dados em Go (`EDGo`)
-Implementações e desafios da disciplina de Estruturas de Dados resolvidos na linguagem Go (Golang).
-
-### 🧩 Projetos e Desafios em C++ (`cpp`)
-Coleção de algoritmos, exercícios e miniprojetos desenvolvidos utilizando a linguagem C++.
-
-### 🏗️ Trabalho Final de ED (`Trabalho-final-ed`)
-Repositório dedicado ao trabalho de conclusão da disciplina de Estruturas de Dados, demonstrando aplicações práticas dos conceitos estudados na matéria.
-
-### 📝 Laboratório - 2º Período (`listas-lab-2periodo`)
-Resoluções das listas de exercícios e atividades práticas de programação referentes ao 2º período de computação/física.
-
-### 🔥 Furia Challenge (`furia-challenge`)
-Repositório contendo o desafio técnico/competição relacionado ao projeto FURIA. Envolve lógica algorítmica ou modelagem de dados para requisitos específicos.
-
-### 🎯 Furia Project (`furia-project`)
-Projeto correspondente ao núcleo do sistema FURIA com suas principais features integradas.
-
-### 📦 Entregas Genéricas (`entrega`)
-Repositório voltado para a submissão de artefatos avulsos requeridos pelas disciplinas.
+Bem-vindo ao repositório central dos meus projetos e trabalhos desenvolvidos durante a universidade. Ele funciona como um **monorepo**, consolidando diferentes disciplinas e preservando todo o histórico de contribuições em um só lugar.
 
 ---
 
-> _Os repositórios antigos foram todos unidos preservando o histórico de autoria (`git subtree`)._
+## 📚 Índice de Projetos e Disciplinas
+
+Este repositório agrupa o conhecimento adquirido durante os períodos em diversas áreas. Abaixo, você encontra a tabela de conteúdos, clique no link para acessar cada pasta.
+
+| Disciplina / Projeto | Descrição | Principais Tecnologias | Acesso |
+| :--- | :--- | :---: | :---: |
+| **POO: API Locadora** | API REST completa simulando operações reais de uma locadora de veículos (gerenciamento, faturamento, depreciação). | `Java`, `Spring Boot` | [👉 Acessar](./francielioEvangelistaDosSantosCastroprojetoAPI) |
+| **Computação Gráfica** | Estudos, rendering, algoritmos visuais e aplicações de transformações geométricas. | `C++`, `OpenGL` | [👉 Acessar](./ComputerGraphics) |
+| **Estruturas de Dados (Go)**| Exercícios e implementações fundamentais de árvores, listas e pilhas na linguagem Go. | `Go` | [👉 Acessar](./EDGo) |
+| **Laboratório - 2º Período**| Resoluções analíticas e práticas de listas de exercícios de programação e física. | `C++`, `Python` | [👉 Acessar](./listas-lab-2periodo) |
+| **Trabalho Final de ED** | Projeto aplicado como avaliação central da disciplina de Estruturas de Dados. | `C++` | [👉 Acessar](./Trabalho-final-ed) |
+| **Desafios Básicos em C++** | Coleção condensada de miniprojetos, problemas algorítmicos e lógica focados na linguagem clássica. | `C++` | [👉 Acessar](./cpp) |
+| **Furia Challenge** | Desafio técnico / hackathon construído para atender especificações e modelagens intensas. | `Node`, `Web` | [👉 Acessar](./furia-challenge) |
+| **Furia Project** | Núcleo do sistema associado ao Furia Challenge contendo lógicas avançadas (ex: social login). | `Web/React` | [👉 Acessar](./furia-project) |
+| **Entregas Gerais** | Pasta contendo artefatos menores ou submissões isoladas (como classes únicas para o lab). | *Várias* | [👉 Acessar](./entrega) |
+
+<br>
+
+## 💡 Sobre a Organização
+> _Nota técnica: Todos os repositórios originalmente separados foram unidos utilizando a técnica de `git subtree`. Isso garantiu que as centenas de commits de cada projeto não fossem perdidas, mantendo um histórico auditável de toda a trajetória acadêmica desde as primeiras linhas de código!_
+
+---
+<div align="center">
+  <small>⌨️ Desenvolvido e mantido por Francielio Castro - 2026</small>
+</div>
