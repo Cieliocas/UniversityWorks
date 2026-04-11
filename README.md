@@ -5,11 +5,16 @@
   [![Tecnologias](https://img.shields.io/badge/Tech_Stack-C++_|_Java_|_Go_|_Web-blue?style=for-the-badge)]()
   [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-success?style=for-the-badge)]()
 
+  <br>
+  <br>
+  🇺🇸 <a href="./README-en.md">Read this in English</a>
 </div>
 
 <br>
 
-Bem-vindo ao repositório central dos meus projetos e trabalhos desenvolvidos durante a universidade. Ele funciona como um **monorepo**, consolidando diferentes disciplinas e preservando todo o histórico de contribuições em um só lugar.
+Bem-vindo ao repositório central dos meus projetos e trabalhos desenvolvidos durante a universidade. Ele funciona como um **monorepo**, consolidando diferentes disciplinas e preservando todo o histórico de contribuições em um só lugar. 
+
+> 🏛️ **Nota:** Estes trabalhos são relacionados às disciplinas cursadas no bacharelado em **Ciência da Computação na Universidade Federal do Piauí (UFPI)**.
 
 ---
 
