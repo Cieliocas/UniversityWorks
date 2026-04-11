@@ -19,15 +19,15 @@ Este repositório agrupa o conhecimento adquirido durante os períodos em divers
 
 | Disciplina / Projeto | Descrição | Principais Tecnologias | Acesso |
 | :--- | :--- | :---: | :---: |
-| **POO: API Locadora** | API REST completa simulando operações reais de uma locadora de veículos (gerenciamento, faturamento, depreciação). | `Java`, `Spring Boot` | [👉 Acessar](./francielioEvangelistaDosSantosCastroprojetoAPI) |
+| **POO: API Locadora** | API REST completa simulando operações reais de uma locadora de veículos (gerenciamento, faturamento, depreciação). | `Java`, `Spring Boot` | [👉 Acessar](./CarRentPOOJava) |
 | **Computação Gráfica** | Estudos, rendering, algoritmos visuais e aplicações de transformações geométricas. | `C++`, `OpenGL` | [👉 Acessar](./ComputerGraphics) |
-| **Estruturas de Dados (Go)**| Exercícios e implementações fundamentais de árvores, listas e pilhas na linguagem Go. | `Go` | [👉 Acessar](./EDGo) |
-| **Laboratório - 2º Período**| Resoluções analíticas e práticas de listas de exercícios de programação e física. | `C++`, `Python` | [👉 Acessar](./listas-lab-2periodo) |
-| **Trabalho Final de ED** | Projeto aplicado como avaliação central da disciplina de Estruturas de Dados. | `C++` | [👉 Acessar](./Trabalho-final-ed) |
-| **Desafios Básicos em C++** | Coleção condensada de miniprojetos, problemas algorítmicos e lógica focados na linguagem clássica. | `C++` | [👉 Acessar](./cpp) |
+| **Estruturas de Dados (Go)**| Exercícios e implementações fundamentais de árvores, listas e pilhas na linguagem Go. | `Go` | [👉 Acessar](./DataStructureGO) |
+| **Laboratório - 2º Período**| Resoluções analíticas e práticas de listas de exercícios de programação e física. | `C++`, `Python` | [👉 Acessar](./ProgrammingLabPy) |
+| **Trabalho Final de ED** | Projeto aplicado como avaliação central da disciplina de Estruturas de Dados. | `C++` | [👉 Acessar](./DataStructureFinal) |
+| **Desafios Básicos em C++** | Coleção condensada de miniprojetos, problemas algorítmicos e lógica focados na linguagem clássica. | `C++` | [👉 Acessar](./SortingAlgorithmCPP) |
 | **Furia Challenge** | Desafio técnico / hackathon construído para atender especificações e modelagens intensas. | `Node`, `Web` | [👉 Acessar](./furia-challenge) |
 | **Furia Project** | Núcleo do sistema associado ao Furia Challenge contendo lógicas avançadas (ex: social login). | `Web/React` | [👉 Acessar](./furia-project) |
-| **Entregas Gerais** | Pasta contendo artefatos menores ou submissões isoladas (como classes únicas para o lab). | *Várias* | [👉 Acessar](./entrega) |
+| **Entregas Gerais** | Pasta contendo artefatos menores ou submissões isoladas (como classes únicas para o lab). | *Várias* | [👉 Acessar](./BankAccountPOOJava) |
 
 <br>
 
