@@ -30,6 +30,7 @@ Este repositório agrupa o conhecimento adquirido durante os períodos em divers
 | **Laboratório - 2º Período**| Resoluções analíticas e práticas de listas de exercícios de programação e física. | `C++`, `Python` | [👉 Acessar](./ProgrammingLabPy) |
 | **Trabalho Final de ED** | Projeto aplicado como avaliação central da disciplina de Estruturas de Dados. | `C++` | [👉 Acessar](./DataStructureFinal) |
 | **Teoria dos Grafos: Coloração** | Benchmark de heurísticas de coloração de vértices (Sequencial, Welsh-Powell, DSATUR): geração de grafos, análise de tempo × qualidade e gráficos. | `C++`, `CMake`, `Python` | [👉 Acessar](./Graphs) |
+| **Banco de Dados: Plataforma BioAtiva** | Estudo de caso, modelo Entidade-Relacionamento e script SQL completo (DDL, DML e consultas) de uma plataforma para Sequências Didáticas Investigativas. | `MySQL`, `SQL`, `Workbench` | [👉 Acessar](./Database) |
 | **Desafios Básicos em C++** | Coleção condensada de miniprojetos, problemas algorítmicos e lógica focados na linguagem clássica. | `C++` | [👉 Acessar](./SortingAlgorithmCPP) |
 | **Furia Challenge** | Desafio técnico / hackathon construído para atender especificações e modelagens intensas. | `Node`, `Web` | [👉 Acessar](./furia-challenge) |
 | **Furia Project** | Núcleo do sistema associado ao Furia Challenge contendo lógicas avançadas (ex: social login). | `Web/React` | [👉 Acessar](./furia-project) |
