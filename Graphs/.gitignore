@@ -1,0 +1,16 @@
+# Build (CMake)
+build/
+cmake-build-*/
+*.o
+*.obj
+coloracao
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
