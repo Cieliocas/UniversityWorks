@@ -226,7 +226,7 @@ aquários** para acomodar todos os peixes sem incompatibilidade.
 
 ### 6.1 Esforço Computacional (tempo de execução)
 
-![Tempo médio de execução por dimensão do grafo](graficos/grafico_tempo.png)
+![Tempo médio de execução por dimensão do grafo](../graficos/grafico_tempo.png)
 
 **Tabela — Tempo médio de execução (ms):**
 
@@ -244,7 +244,7 @@ lenta).]_
 
 ### 6.2 Qualidade da Solução (número de cores)
 
-![Número médio de cores por dimensão do grafo](graficos/grafico_cores.png)
+![Número médio de cores por dimensão do grafo](../graficos/grafico_cores.png)
 
 **Tabela — Número médio de cores:**
 

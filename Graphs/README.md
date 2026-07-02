@@ -17,21 +17,26 @@ solução** (número de cores).
 
 ```
 ColoracaoEmGrafos/
-├── CMakeLists.txt          # Build (C++17, Release -O2)
+├── CMakeLists.txt              # Build (C++17, Release -O2)
 ├── README.md
-├── RELATORIO_BASE.md       # Esqueleto do relatório final
 ├── include/
-│   ├── Graph.h             # Grafo (lista de adjacências) + gerador
-│   └── Coloring.h          # Heurísticas + validação
+│   ├── Graph.h                 # Grafo (lista de adjacências) + gerador
+│   └── Coloring.h              # Heurísticas + validação
 ├── src/
-│   ├── Graph.cpp
-│   ├── Coloring.cpp
-│   └── main.cpp            # Benchmark + exportação do CSV
-└── scripts/
-    └── plot_results.py     # Gera os gráficos PNG
+│   ├── Graph.cpp               # Implementação do grafo e do gerador
+│   ├── Coloring.cpp            # Implementação das 3 heurísticas
+│   └── main.cpp                # Benchmark + exportação do CSV
+├── scripts/
+│   ├── plot_results.py         # Gera os gráficos PNG a partir do CSV
+│   └── gerar_relatorio_pdf.py  # Gera o relatório final em PDF (ABNT)
+├── assets/
+│   └── ufpi-logo.png           # Logo usada na capa do relatório
+├── graficos/                   # Gráficos gerados (PNG)
+├── docs/
+│   ├── RELATORIO_BASE.md       # Esqueleto/rascunho do relatório
+│   └── Relatorio_Coloracao_Grafos_ABNT.pdf   # Relatório final (ABNT)
+└── resultados.csv              # Dados consolidados do benchmark
 ```
-
-Artefatos gerados em tempo de execução: `resultados.csv`, `graficos/`.
 
 ## Requisitos
 
@@ -84,6 +89,17 @@ python3 scripts/plot_results.py            # lê resultados.csv
 
 Gera `graficos/grafico_tempo.png` (esforço computacional) e
 `graficos/grafico_cores.png` (qualidade da solução).
+
+## Como gerar o relatório em PDF (ABNT)
+
+```bash
+pip install reportlab matplotlib      # se necessário
+python3 scripts/gerar_relatorio_pdf.py
+```
+
+Gera `docs/Relatorio_Coloracao_Grafos_ABNT.pdf` — relatório completo em padrão
+ABNT (capa com a logo da UFPI, folha de rosto, resumo, sumário, seções
+numeradas, tabelas e figuras com os dados do benchmark e referências).
 
 ## Metodologia
 
