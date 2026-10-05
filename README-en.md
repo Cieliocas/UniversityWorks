@@ -31,6 +31,7 @@ This repository holds all the knowledge acquired throughout the terms in various
 | **Data Structures Final Work** | Major project applied as the final evaluation for the Data Structures class. | `C++` | [👉 Access](./DataStructureFinal) |
 | **Graph Theory: Coloring** | Benchmark of vertex-coloring heuristics (Greedy, Welsh-Powell, DSATUR): graph generation, runtime × quality analysis, and plots. | `C++`, `CMake`, `Python` | [👉 Access](./Graphs) |
 | **Database: BioAtiva Platform** | Case study, Entity-Relationship model, and a complete SQL script (DDL, DML, and queries) for an educational platform built around Investigative Teaching Sequences. | `MySQL`, `SQL`, `Workbench` | [👉 Access](./Database) |
+| **Digital Image Processing** | Histogram equalization implementation for image enhancement. | `Python` | [👉 Access](./HistogramEqualizz) |
 | **C++ Basic Challenges** | A condensed collection of logic problems, algorithms, and micro-projects diving into C++. | `C++` | [👉 Access](./SortingAlgorithmCPP) |
 | **Furia Challenge** | Technical challenge / hackathon project built to meet intense systemic requirements. | `Node`, `Web` | [👉 Access](./furia-challenge) |
 | **Furia Project** | Core system linked to the Furia Challenge, highlighting advanced logic like social logins. | `Web/React` | [👉 Access](./furia-project) |
